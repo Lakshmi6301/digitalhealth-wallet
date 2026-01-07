@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Database
+health_wallet.db
+
+# Logs
+npm-debug.log*
+
+# OS
+.DS_Store
